@@ -1,4 +1,4 @@
 * Editing Python With Emacs
 ** Flyc
-   Syntax checking for GNU Emacs.
+   Syntax checking for GNU Emacs. \\
    [[https://www.flycheck.org/en/latest/][Flycheck]]
