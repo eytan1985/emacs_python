@@ -1,4 +1,13 @@
+#+STARTUP: overview
+
 * Editing Python With Emacs
 ** Flyc
    Syntax checking for GNU Emacs. \\
    [[https://www.flycheck.org/en/latest/][Flycheck]]
+** Jedi
+   Jedi.el is a Python auto-completion package for Emacs. \\
+   [[https://github.com/tkf/emacs-jedi][Emacs Jedi]]
+** Python Process Within Emacs
+   C-c C-p will open a python process shell within Emacs.
+   C-c C-c will run the content of the buffer in the opened python shell
+
