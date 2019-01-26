@@ -1,16 +1,11 @@
 
 import random
 
-x = 20
-
-print("hello")
+def f(x):
+    return random.randrange(1,10)
 
 for i in range(10):
-    print(random.randrange(1,10))
-
-
-def f(x):
-    return 2*x
+    print(f(1))
 
     
 
